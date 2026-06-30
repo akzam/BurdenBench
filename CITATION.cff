@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+type: software
+title: "BurdenBench"
+abstract: "Calculate absolute false-positive (FP) and true-positive (TP) burden from hap.py benchmarking outputs with full reproducibility audit."
+authors:
+  - family-names: "Saidin"
+    given-names: "A."
+  - family-names: "Ricos"
+    given-names: "M. G."
+  - family-names: "Dibbens"
+    given-names: "L. M."
+repository-code: "https://github.com/YOUR_USERNAME/BurdenBench"
+version: 1.0.0
+date-released: 2026-06-30
+license: MIT
+keywords:
+  - variant-calling
+  - benchmarking
+  - hap.py
+  - genomics
+  - GIAB
+  - false-positive
+  - true-positive
+  - reproducibility

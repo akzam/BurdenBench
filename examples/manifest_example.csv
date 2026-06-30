@@ -1,0 +1,7 @@
+sample,caller,condition,baseline_path,consensus_path
+HG001,bcftools,1KG_AF10pc,HG001_bwa_GRCh38_bcftools.csv,HG001_1KG_AF10pc_bcftools.csv
+HG001,bcftools,1KG_AF30pc,HG001_bwa_GRCh38_bcftools.csv,HG001_1KG_AF30pc_bcftools.csv
+HG001,freebayes,1KG_AF10pc,HG001_bwa_GRCh38_freebayes.csv,HG001_1KG_AF10pc_freebayes.csv
+HG002,bcftools,1KG_AF10pc,HG002_bwa_GRCh38_bcftools.csv,HG002_1KG_AF10pc_bcftools.csv
+HG002,bcftools,1KG_AF30pc,HG002_bwa_GRCh38_bcftools.csv,HG002_1KG_AF30pc_bcftools.csv
+HG005,bcftools,1KG_AF10pc,HG005_bwa_GRCh38_bcftools.csv,HG005_1KG_AF10pc_bcftools.csv

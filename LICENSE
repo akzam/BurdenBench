@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2026 Akzam Saidin
+=======
+Copyright (c) 2026 BurdenBench Contributors
+>>>>>>> 9e5bcd2 (Initial commit: BurdenBench v1.0.0 (renamed from calculate_fp_burden v5.3.7))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
